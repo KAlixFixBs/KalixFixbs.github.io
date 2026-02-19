@@ -1,1 +1,12 @@
-
+{
+  "name": "Onlinefixbugs",
+  "downloads": [
+    {
+      "title": "Ultimate Chicken Horse",
+      "uris": ["https://gofile.io/d/c231b15d-0ec5-4686-bb77-24f6858eb671"],
+      "uploadDate": "2024-12-23T23:12:00.000Z",
+      "fileSize": "1G",
+      "repackLinkSource": "https://site.com"
+    }
+  ]
+}
